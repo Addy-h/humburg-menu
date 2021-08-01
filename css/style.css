@@ -1,5 +1,5 @@
-:root{
-   --primary-color: rgba(13, 110, 139, 0.75);
+:root {
+   --primary-color: rgba(13, 110, 139, 0.45);
    --overlay-color: rgba(24, 39, 51, 0.85);
    --menu-speed: 0.75s; 
 }
@@ -44,7 +44,7 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    text-align: 100%;
+    text-align: center;
     height: 100%;
 }
 
